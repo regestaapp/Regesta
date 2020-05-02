@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472743993904",
+    "firebase_url": "https://regestaapp-2020.firebaseio.com",
+    "project_id": "regestaapp-2020",
+    "storage_bucket": "regestaapp-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472743993904:android:0311cbe4470955e6dc83f5",
+        "android_client_info": {
+          "package_name": "com.regesta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472743993904-7mf0beg4ksavcgi3r5pa5blgn16lrnl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo42iTFFRqUiEePSPTJtCIcalhy7Xhslw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472743993904-7mf0beg4ksavcgi3r5pa5blgn16lrnl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
